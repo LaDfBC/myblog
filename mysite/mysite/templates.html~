@@ -1,0 +1,8 @@
+<!-- templates.html -->
+<html>
+	<p>
+		{% if 2 > 1 %}
+			My name is Tuco!
+		{% endif %}
+	</p>
+</html>
